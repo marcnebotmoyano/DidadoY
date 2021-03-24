@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DidadoY
+- 👀 I’m interested in maths and technology 
+- 🌱 I’m currently strudying computer engineering at UPC
+- 💞️ I’m looking to collaborate on projects
